@@ -3,6 +3,10 @@
 ### Global Population Distribution Analysis(2001-2022)
 ### Project Overview
 ##### This project analyzes the World Population dataset to understand how population is distributed across different countries and regions. Using visualizations such as bar charts and histograms, it highlights global population patterns, identifies countries with the highest populations, and reveals the uneven nature of population distribution. The project also provides insights into population growth trends from 2001 to 2022, helping to visualize how demographic shifts have occurred over the past two decades
+##### Dataset: World Population Dataset
+##### Language: Python 
+##### Environment: Jupyter Notebook 
+##### Libraries Used: numpy, pandas, matplotlib, seaborn
 
 ### Steps Performed
 ##### 1.Importing Libraries
